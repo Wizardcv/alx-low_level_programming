@@ -1,0 +1,1 @@
+A script that runs C through the preprocesser and save it result in another file
