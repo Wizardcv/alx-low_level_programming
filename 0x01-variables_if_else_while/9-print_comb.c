@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - printing numbers from 0-9 with commas and space 
+ * main - printing numbers from 0-9 with commas and space
  * Description: using the main function
  * this program prints numbers with comma
  * Return: 0
