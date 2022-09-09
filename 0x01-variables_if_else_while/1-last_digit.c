@@ -2,12 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 
-/** 
+/**
  * main - print if number is > 5, == 0 or < 6 not 0
  *
  * Description: using the main function
  * this program prints number is > 5, == 0 or < 6 not 0
- * Return: 0 betty style doc for function main goes there 
+ * Return: 0 betty style doc for function main goes there
 */
 int main(void)
 {
