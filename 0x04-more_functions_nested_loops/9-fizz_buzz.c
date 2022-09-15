@@ -2,10 +2,10 @@
 
 /**
 * main - displays numbers from 1-100, but multiples of three,
-*        Fizz is printed instead of numbers, for multiples of five,
-*        Buzz, and for multiples of both three and five, FizzBuzz.
+* Fizz is printed instead of numbers, for multiples of five,
+* Buzz, and for multiples of both three and five, FizzBuzz.
 *
-* Return: 0.
+* Return: 0
 */
 
 int main(void)
@@ -30,8 +30,6 @@ if (num == 100)
 continue;
 printf (" ");
 }
-
 printf ("\n");
-
 return (0);
 }
